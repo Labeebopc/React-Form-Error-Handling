@@ -1,0 +1,20 @@
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+  border: 1px solid grey;
+  padding: 30px;
+  width: 600px;
+  margin: auto;
+}
+.label-section {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: auto;
+}
+.form-submit-btn {
+  width: 100px;
+  margin: auto;
+  margin-top: 15px;
+}
